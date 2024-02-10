@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeffrey-Cane.
-- 👀 I’m interested in datascience, cyber secutiry and software engineering.
+- 👀 I’m interested in data science, cybersecurity and web development.
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on app development and ethical hacking.
+- 💞️ I’m looking to collaborate on web development and ethical hacking.
 - 📫 
 
 <!---
