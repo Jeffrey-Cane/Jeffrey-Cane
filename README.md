@@ -1,29 +1,39 @@
-# Hi there 👋, I'm Jeffrey Cane  
+# Hi, I'm Jeffrey Cane
 
-🔬 Exploring **applications of data science** to solve real-world problems  
-📊 Building **dashboards and automation tools** that turn raw data into decisions  
-🤖 Learning and applying **machine learning** for smarter insights  
-📈 Passionate about **data visualization & analysis** — making numbers tell stories  
+Software engineer focused on backend systems, scalable applications, and data-driven engineering solutions. I build reliable services, automation tools, and analytical systems that turn raw data into usable products and decisions.
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently learning **data science** and applying it to **data-driven projects**  
-- 💻 Working on **dashboards, financial models, and portfolio optimization**  
-- 🎯 Goal: Become a **data engineer & data-driven problem solver**  
-- 🎥 Future creator: **coding**  
+## About Me
+
+- Currently focused on backend engineering, system design, and scalable application development  
+- Building production-style systems including APIs, dashboards, and automation workflows  
+- Interested in distributed systems, data infrastructure, and financial technology applications  
+- Strong interest in designing systems that are maintainable, efficient, and extensible  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages**: Python 🐍 | JavaScript 🌐 | HTML | CSS  
-- **Data Science**: Pandas | NumPy | Scikit-Learn | Matplotlib | Plotly  
-- **Dashboards & Automation**: Streamlit | Flask | Power BI (exploring)  
-- **Tools**: Git & GitHub | Jupyter | VS Code
+## Tech Stack
+
+- Languages: Python | JavaScript | SQL | HTML | CSS  
+- Backend & Frameworks: Node.js | Express | Django | FastAPI | React  
+- Data & Analytics: Pandas | NumPy | Scikit-learn | Matplotlib | Plotly  
+- Data/BI Tools: Streamlit | Power BI  
+- Infrastructure & Tools: Git | GitHub | Docker | Jupyter | VS Code  
 
 ---
 
-## 📌 Featured Projects  
-- 📈 **Financial Dashboard** → Automating car agency reports and portfolio optimization  
-- 🤖 **Stock Analysis Model** → Exploring ML for stock market predictions  
-- ⚡ **Many more to come** 
+## Featured Projects
+
+- Financial Dashboard System — backend-driven automation for reporting and portfolio insights in a real-world business context  
+- Stock Analysis & Modeling System — exploratory system for financial data processing and predictive modeling  
+- Pulse CRM — lead management system focused on scalable backend architecture, APIs, and workflow automation  
+
+---
+
+## Focus Areas
+
+- Backend system design and API architecture  
+- Data pipelines and automation systems  
+- Financial and analytics-driven software solutions  
+- Building scalable, production-ready applications  
